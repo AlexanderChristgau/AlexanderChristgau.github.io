@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi, I am Alexander. I am studying for a PhD at the [Copenhagen Causality Lab](https://cocala.github.io/), where I am supervised by [Niels Richard Hansen](https://nrhstat.org/) :sunglasses:
 
-My research interests lie  within mathematical statistics and machine learning, in particular causality, dynamical systems and high-dimensional statistics. If any of this sounds interesting, feel free to reach out! 
+My research interests lie within mathematical statistics and machine learning, in particular causality, dynamical systems and high-dimensional statistics. If any of this sounds interesting, feel free to reach out! 
 
 I hold a bachelor degree in mathematics and a master degree in statistics, both attained at the University of Copenhagen.
 
