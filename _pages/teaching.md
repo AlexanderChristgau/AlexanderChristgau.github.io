@@ -22,6 +22,7 @@ Each course corresponds to 7.5 ECTS.
 <h3 id="Reviewing">Reviewing</h3>
 I have reviewed at:
 <ul>
+  <li>The Journal of Machine Learning Research (JMLR)</li>
   <li><a href="https://sites.google.com/view/distshift2022">NeurIPS 2022 Workshop on Distribution Shifts</a></li>
   <li>Lithuanian Mathematical Journal</li>
 </ul>
