@@ -21,11 +21,28 @@ Each course corresponds to 7.5 ECTS.
 
 <h3 id="Reviewing">Reviewing</h3>
 I have reviewed at:
-<ul>
-  <li>The Journal of Machine Learning Research (JMLR)</li>
-  <li><a href="https://sites.google.com/view/distshift2022">NeurIPS 2022 Workshop on Distribution Shifts</a></li>
-  <li>Lithuanian Mathematical Journal</li>
-</ul>
+<div class="row mt-3">
+    <div class="col-mm mt-0 mt-md-0">
+      <ul>
+        <li>
+          Stochastic Processes and Their Applications (SPA)
+        </li>
+        <li>
+          The Journal of Machine Learning Research (JMLR)
+        </li>
+        <li>
+          AISTATS 2024
+        </li>
+        <li><a href="https://sites.google.com/view/distshift2022">NeurIPS 2022 Workshop on Distribution Shifts</a></li>
+        <li>Lithuanian Mathematical Journal</li>
+      </ul>
+    </div>
+    <div class="col-sm mt-0 mt-md-0">
+        {% include figure.html path="assets/img/I_review_JMLR_resize.gif" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
 
 <h3 id="Organizing Olympiad Mathematics">Organizing Olympiad Mathematics</h3>
 Since 2017 I have been a part of [Georg Mohr](https://www.georgmohr.dk/)
