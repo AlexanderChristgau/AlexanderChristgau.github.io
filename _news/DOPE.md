@@ -5,7 +5,6 @@ inline: true
 ---
 
 
-New project, "__*Efficient adjustment for complex covariates: Gaining efficiency with DOPE
-*__"!
+New project __*Efficient adjustment for complex covariates: Gaining efficiency with DOPE*__ :rocket: :rocket: :rocket:
 
 [arXiv link](https://arxiv.org/abs/2402.12980)
