@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
+
+gem 'uri', '= 0.13.0'
+
 group :jekyll_plugins do
-    gem "jekyll-mentions", "1.6.0"
     gem "webrick"
     gem 'jekyll'
     gem 'jekyll-archives'
