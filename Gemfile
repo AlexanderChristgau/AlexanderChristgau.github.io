@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
+    gem "jekyll-mentions", "1.6.0"
+    gem "webrick"
     gem 'jekyll'
     gem 'jekyll-archives'
     gem 'jekyll-diagrams'
@@ -14,7 +16,6 @@ group :jekyll_plugins do
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
     gem 'unicode_utils'
-    gem 'webrick'
     gem 'htmlcompressor'
     gem 'htmlbeautifier'
 end
