@@ -19,10 +19,16 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I am Alexander. I am studying for a PhD at the [Copenhagen Causality Lab](https://cocala.github.io/), where I am supervised by [Niels Richard Hansen](https://nrhstat.org/) :sunglasses:
+I am a postdoctoral researcher at the [Copenhagen Causality Lab](https://cocala.github.io/) at the [Department of Mathematical Sciences, University of Copenhagen](https://www.math.ku.dk/english/research/spt/).
+Previously, I was a PhD student
+under the supervision of [Niels Richard Hansen](https://nrhstat.org/) :sunglasses:
 
-My research interests lie within mathematical statistics and machine learning, in particular causality, dynamical systems and high-dimensional statistics. If any of this sounds interesting, feel free to reach out! 
+My research interests are in mathematical statistics and machine learning, with a focus on model-free statistical methods. My PhD work centered on statistical inference for conditional association measures in complex data settings, including unstructured covariates and counting processes.
 
-I hold a bachelor degree in mathematics and a master degree in statistics, both attained at the University of Copenhagen.
+*Keywords*: nonparametric statistics, model-free methods, covariate adjustment, local independence, double/debiased machine learning, continuous-time stochastic processes.
+
+
+Feel free to reach out! My email is amc(at)math.ku.dk. 
+
 
 
