@@ -7,7 +7,7 @@ inline: true
 
 I submitted my PhD Thesis! :tada:
 
-It is publicly available at: https://noter.math.ku.dk/phd24amc.pdf.
+It is [publicly available](https://noter.math.ku.dk/phd24amc.pdf).
 In addition to the already published and arXived papers, the thesis contains a new manuscript titled *Assumption-lean Aalen regression*, along with a brief introductory chapter.
 
 I will be continuing as a postdoc to complete projects from my PhD studies.
