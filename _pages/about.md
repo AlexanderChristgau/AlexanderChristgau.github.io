@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a postdoctoral researcher at the [Copenhagen Causality Lab](https://cocala.github.io/) at the [Department of Mathematical Sciences, University of Copenhagen](https://www.math.ku.dk/english/research/spt/).
+I am a postdoctoral researcher at the [Copenhagen Causality Lab](https://cocala.github.io/) at the [University of Copenhagen](https://www.math.ku.dk/english/research/spt/).
 Previously, I was a PhD student
 under the supervision of [Niels Richard Hansen](https://nrhstat.org/) :sunglasses:
 
