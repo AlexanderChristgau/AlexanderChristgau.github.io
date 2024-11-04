@@ -8,6 +8,7 @@ nav: True
 <h3 id="Teaching">Teaching</h3>
 I have been a TA in the following courses at the University of Copenhagen:
 <ul>
+  <li>Statistics B (2024)</li>
   <li>Stochastic Processes 3 (2019, 2020, 2022)</li>
   <li>Point Processes (2022)</li>
   <li>Demography and Mortality (2021)</li>
