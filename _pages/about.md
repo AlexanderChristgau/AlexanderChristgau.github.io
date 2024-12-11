@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: newprof_crop.jpg
   address: >
     <p>Department of Mathematical Sciences</p>
     <p>Universitetsparken 5</p>
